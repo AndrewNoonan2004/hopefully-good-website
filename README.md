@@ -1,1 +1,1 @@
-This Repository hosts the code for my personal website, which you can find at https://andrewnoonan.xyz/
+This Repository hosts legacy code from my old website. You can find the code for my current website at https://github.com/AndrewNoonan2004/V2-website-redesign
